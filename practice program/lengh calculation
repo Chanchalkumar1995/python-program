@@ -1,0 +1,9 @@
+print(len("Chanchal kumar"))#string
+print(len([1,2,3,4,5,6,12]))#list
+batman="Bruce Wayne"
+print(batman[0])
+print(batman[-1])
+print(batman[:])
+batman2="Chanchal kumar"
+print(len(batman2))
+print(len(batman2)+1)

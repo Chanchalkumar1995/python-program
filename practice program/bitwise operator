@@ -1,0 +1,5 @@
+num=5
+print(~num)
+num2=5
+num3=num^num2
+print(num3)

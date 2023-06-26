@@ -1,0 +1,11 @@
+age=25
+print(type(age))
+age="Twenty Five"
+print(type(age))
+#age calculation
+age=90
+print(age)
+age=age+2
+print(age)
+age=age-2
+print(age)

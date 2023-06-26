@@ -1,0 +1,11 @@
+#same char stored in both string
+str1="Chanchal"
+print(id(str1))
+str2="Chanchal"
+print(id(str2))
+
+#Different char stored in both string
+str3="chanchal"
+print(id(str3))
+str4="kumar"
+print(id(str4))

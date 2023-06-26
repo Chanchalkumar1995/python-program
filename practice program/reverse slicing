@@ -1,0 +1,10 @@
+my_string="This is chanchal from testing"
+print(my_string[0:-5])
+print(my_string[13:2:-1])
+#Another way to understand slicing
+
+my_string2="0123456789"
+print(len(my_string2))
+print(len(my_string2)-1)
+print(my_string2[0:(len(my_string2)-8)])
+print(my_string2[5:len(my_string2)-1])

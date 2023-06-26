@@ -1,0 +1,9 @@
+max_val=max(4,5,78,89,90)
+print(max_val)
+
+
+print(50,40,12345,3.14)
+#highest value
+a=[23,67,89]
+b=max(a)
+print(b)

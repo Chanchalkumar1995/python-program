@@ -1,0 +1,17 @@
+name=input("enter your name\n")
+print(name)
+#Add countinous two number
+x=input("Enter the first num\n")
+y=input ("Enter the second num\n")
+z=x+y
+print(z) 
+#add two num
+x=input("enter the first num\n")
+y=input("enter the second num\n")
+z=int(x)+int(y)
+print(z) 
+#Addition two num with another way
+x=int(input("enter the first num\n"))
+y=int(input("enter the second num\n"))
+z=x+y
+print(z)      
