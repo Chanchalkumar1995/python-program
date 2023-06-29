@@ -1,0 +1,11 @@
+#Comparison of 3 numbers
+a=int(input("Enter the value of a->\n"))
+b=int(input("Enter the value of b->\n "))
+c=int(input("Enter the value of c->\n"))
+if a>b and a>c:
+    print("a")
+elif b>a and b>c:
+    print("b")
+else:
+    print("c")
+           
